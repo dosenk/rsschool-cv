@@ -2,6 +2,7 @@
 ### Contact:
   - Email: dmtr.osipenko@gmail.com
   - Telegram: @dosenk
+  - linkedin: [Dmitry Osipenko](https://www.linkedin.com/in/dmtros/)
 
 ### SKILLS:
   - PHP 
