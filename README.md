@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://dosenk.io/rsschool-cv/cv
