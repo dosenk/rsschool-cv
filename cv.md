@@ -20,8 +20,10 @@
  - working with MySql databases
  - development in JS, PHP 5-7 (Laravel - entry-level)
  - Docker, Linux (Ubuntu/Debian, Centos/RedHat), Apache, Nginx
+
 ### Education
  - BSUIR (2011) - telecommunications engineer
  - IT-Academy (2018) - ICND Interconnecting Cisco Networking Devices Part 1
+ 
 ### English
 Pre-Intermediate (A2)
